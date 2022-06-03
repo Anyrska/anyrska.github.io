@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('../fonts/icomoon.eot?260ayj');
+  src: url('../fonts/icomoon.eot?260ayj#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?260ayj') format('truetype'),
+    url('../fonts/icomoon.woff?260ayj') format('woff'),
+    url('../fonts/icomoon.svg?260ayj#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-baidu:before {
+  content: "\e900";
+  color: #2319dc;
+}
+
+.icon-blogger:before {
+  content: "\e901";
+  color: #ff5722;
+}
+
+.icon-css3:before {
+  content: "\e902";
+  color: #1572b6;
+}
+
+.icon-csswizardry:before {
+  content: "\e903";
+  color: #f43059;
+}
+
+.icon-facebook:before {
+  content: "\e904";
+  color: #1877f2;
+}
+
+.icon-figma:before {
+  content: "\e905";
+  color: #f24e1e;
+}
+
+.icon-pinterest:before {
+  content: "\e906";
+  color: #bd081c;
+}
+
+.icon-shazam:before {
+  content: "\e907";
+  color: #08f;
+}
+
+.icon-skype:before {
+  content: "\e908";
+  color: #00aff0;
+}
+
+.icon-uber:before {
+  content: "\e909";
+}
+
+.icon-youtube:before {
+  content: "\e90a";
+  color: #f00;
+}
